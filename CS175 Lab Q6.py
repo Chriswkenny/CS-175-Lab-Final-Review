@@ -1,3 +1,5 @@
+#Christopher Kenny
+#CS 175
 #Q6: What will the following code return when you run it?
 a = 2
 b = 4
