@@ -1,3 +1,5 @@
+#Christopher Kenny
+#CS175
 #Q10: Write the lines of code to loop through numbers from 1 to 20 and skip if number is
 #a multiple of 3. Display numbers
 
