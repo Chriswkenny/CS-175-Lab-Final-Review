@@ -1,3 +1,5 @@
+#Christopher Kenny
+#CS 175
 #Q9: Write the lines of code to add the number to total until the user enters a zero. Display the total sum.
 
 def total_calculator():
